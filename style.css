@@ -35,7 +35,7 @@ div {
     text-align: center;
     font-family: "Arial";
     font-size: 19px;
-    float: right;
+    float: left;
 
 }
 .article {
@@ -69,12 +69,12 @@ h2 {
     height: 300px;
     border: 1px solid black;
     padding: 15px 0px 0px 0px;
-    margin-right: 100px;
+    margin-right: 10px;
     display: block;
     text-align: center;
     font-family: "Arial";
     font-size: 19px;
-    float: left;
+    float: right;
     
 }
 p {
@@ -103,5 +103,6 @@ footer {
     text-align: center;
     font-family: "Arial";
     font-size: 19px;
+    position: absolute; bottom;
 
 }
