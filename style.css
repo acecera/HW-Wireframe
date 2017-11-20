@@ -1,0 +1,107 @@
+div {
+    background-color: lightgray;
+    width: 960px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 40px 0px 0px 0px;
+    margin-left: 200px;
+    display: block;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 19px;
+
+}
+.nav {
+    background-color: lightgray;
+    width: 960px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 40px 0px 0px 0px;
+    margin-left: 200px;
+    display: block;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 19px;
+
+}
+.section {
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 300px;
+    border: 1px solid black;
+    padding: 10px 0px 0px 0px;
+    margin-left: 200px;
+    display: block;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 19px;
+    float: right;
+
+}
+.article {
+    background-color: rgb(138, 138, 138);
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 0px;
+    margin-left: 30px;
+    display: block;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 19px;
+
+}
+h2 {
+    background-color: lightgray;
+    width: 360px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 15px 0px 0px 0px;
+    margin-left: 20px;
+    display: block;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 19px;
+}
+.aside {
+    background-color: lightgray;
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    padding: 15px 0px 0px 0px;
+    margin-right: 100px;
+    display: block;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 19px;
+    float: left;
+    
+}
+p {
+    background-color: lightgray;
+    width: 360px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 15px 0px 0px 0px;
+    margin-left: 20px;
+    display: block;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 19px;
+}
+body {
+    background-color: gray;
+}
+footer {
+    background-color: lightgray;
+    width: 960px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 40px 0px 0px 0px;
+    margin-left: 0px;
+    display: block;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 19px;
+
+}
